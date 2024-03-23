@@ -1,0 +1,2 @@
+### What is a kafka topic?
+Messages in Kafka are categorized into topics. The closest analogies for a topic are a database table or a folder in a filesystem. Topics are additionally broken down into a number of partitions.
